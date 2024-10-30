@@ -12,8 +12,8 @@ In this project, we used SQL and Power BI to create an interactive dashboard tha
 
 Folder overview:
 
-* `KPi_Queries.rtf` - a text file that shows the KPI and Chart Requirements using SQL.
-* `Terminologies.rtf` - a text file that describe the data used.
+* `KPi_Queries.odt` - a text file that shows the KPI and Chart Requirements using SQL.
+* `Terminologies.odt` - a text file that describe the data used.
 * `financial_loan.csv` - a csv file that contains information about unique loans.
 * `Bank_Loan_Analysis.pbix` - an interactive dashboard made in Power Bi.
 * `Problem_Statement.pdf` - a quick overview of our dashboard.
